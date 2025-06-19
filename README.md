@@ -3,19 +3,37 @@
 소규모 스타트업에서 **기획과 개발을 함께하는 일**을 좋아하는 웹/앱 지향 풀스택 지망생입니다.  
 React와 Flask 기반의 웹 서비스부터 Python 기반의 챗봇까지 실전 위주로 학습하며 성장 중입니다.
 
+---
+
+<h3 align="center">🕹️ Languages / Tools</h3>
+
+  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs3&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+</div>
+
+<h3 align="center">⌨️ Studying</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Deeplearning-0F2B46?style=for-the-badge&logo=DeepL&logoColor=white" />&nbsp
+</div>
 
 ---
 
 ## 🛠️ 기술 스택
 
 ### Front-End
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-- <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp (Hooks, Router, 상태관리 기초)
+- HTML, CSS, JavaScript (ES6+)
+- React.js (Hooks, Router, 상태관리 기초)
 
 ### Back-End
 - Node.js (Express)
@@ -35,39 +53,6 @@ React와 Flask 기반의 웹 서비스부터 Python 기반의 챗봇까지 실�
 - AWS EC2, S3, RDS
 - Docker, Kubernetes (기초)
 - Git / GitHub / Jupyter Notebook
-
----
----
-
-## 🧰 Tech Stack
-
-<h3 align="center">🕹️ Languages / Tools</h3>
-
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs3&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-</div>
-
-<h3 align="center">⌨️ Studying</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Deeplearning-0F2B46?style=for-the-badge&logo=DeepL&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
 
 ---
 

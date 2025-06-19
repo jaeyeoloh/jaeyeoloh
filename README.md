@@ -10,12 +10,12 @@ React와 Flask 기반의 웹 서비스부터 Python 기반의 챗봇까지 실�
 <div align="center">
   <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffdd54" />
 </div>
 
 <h3 align="center">⌨️ Studying</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Deeplearning-0F2B46?style=for-the-badge&logo=DeepL&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Deeplearning-0F2B46?style=for-the-badge&logo=DeepL&logoColor=white" />
 </div>
 
 ---
